@@ -6,9 +6,10 @@
 ```javascript
 const Kevin = {
     askMeAbout: ["app dev", "api dev" ,"tech"],
+    learning: ["python", "react"],
     technologies:{
         backEnd: ["nodejs", "express", "php"],
-        fronEnd: ["angular", "react"],
+        fronEnd: ["angular"],
         database: ["mongo","mySql"],
         misc: ["Firebase"]
     }
