@@ -11,6 +11,6 @@ const Kevin = {
         backEnd: ["nodejs", "express", "php"],
         fronEnd: ["angular"],
         database: ["mongo","mySql"],
-        misc: ["Firebase"]
+        baas: ["Firebase"]
     }
 ```
