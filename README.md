@@ -6,11 +6,11 @@
 ```javascript
 const Kevin = {
     askMeAbout: ["app dev", "api dev" ,"tech"],
-    learning: ["python", "react"],
+    learning: ["python","Angular"],
     technologies:{
         backEnd: ["nodejs", "express", "php"],
-        fronEnd: ["angular"],
-        database: ["mongo","mySql"],
+        fronEnd: ["React"],
+        database: ["mongo","mySql", "Oracle"],
         baas: ["Firebase"]
     }
 ```
